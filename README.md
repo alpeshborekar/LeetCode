@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/alpeshborekar/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/alpeshborekar/LeetCode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/alpeshborekar/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/alpeshborekar/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/alpeshborekar/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/alpeshborekar/LeetCode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/alpeshborekar/LeetCode/tree/master/0268-missing-number) |
@@ -70,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/alpeshborekar/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/alpeshborekar/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/alpeshborekar/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
