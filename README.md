@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/alpeshborekar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/alpeshborekar/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/alpeshborekar/LeetCode/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/alpeshborekar/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/alpeshborekar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/alpeshborekar/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/alpeshborekar/LeetCode/tree/master/0228-summary-ranges) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/alpeshborekar/LeetCode/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/alpeshborekar/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/alpeshborekar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/alpeshborekar/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/alpeshborekar/LeetCode/tree/master/0268-missing-number) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/alpeshborekar/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/alpeshborekar/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/alpeshborekar/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/alpeshborekar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/alpeshborekar/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/alpeshborekar/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -94,5 +97,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/alpeshborekar/LeetCode/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/alpeshborekar/LeetCode/tree/master/0561-array-partition) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/alpeshborekar/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
