@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/alpeshborekar/LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/alpeshborekar/LeetCode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/alpeshborekar/LeetCode/tree/master/0704-binary-search) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/alpeshborekar/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0896-monotonic-array](https://github.com/alpeshborekar/LeetCode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/alpeshborekar/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/alpeshborekar/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/alpeshborekar/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/alpeshborekar/LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/alpeshborekar/LeetCode/tree/master/0645-set-mismatch) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/alpeshborekar/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/alpeshborekar/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Two Pointers
 |  |
