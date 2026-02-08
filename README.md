@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/alpeshborekar/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1089-duplicate-zeros](https://github.com/alpeshborekar/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/alpeshborekar/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/alpeshborekar/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/alpeshborekar/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/alpeshborekar/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [3033-modify-the-matrix](https://github.com/alpeshborekar/LeetCode/tree/master/3033-modify-the-matrix) |
