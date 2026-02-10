@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/alpeshborekar/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/alpeshborekar/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/alpeshborekar/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alpeshborekar/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/alpeshborekar/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/alpeshborekar/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [3033-modify-the-matrix](https://github.com/alpeshborekar/LeetCode/tree/master/3033-modify-the-matrix) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/alpeshborekar/LeetCode/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/alpeshborekar/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/alpeshborekar/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alpeshborekar/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alpeshborekar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alpeshborekar/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
