@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/alpeshborekar/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/alpeshborekar/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1089-duplicate-zeros](https://github.com/alpeshborekar/LeetCode/tree/master/1089-duplicate-zeros) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/alpeshborekar/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/alpeshborekar/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/alpeshborekar/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/alpeshborekar/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/alpeshborekar/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/alpeshborekar/LeetCode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/alpeshborekar/LeetCode/tree/master/0268-missing-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/alpeshborekar/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/alpeshborekar/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 ## Binary Search
 |  |
