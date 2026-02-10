@@ -5,11 +5,12 @@ class Solution {
 
         for(int i = 0 ;i < nums.length;i++){
 
+            int num = nums[i];
             int countdigit =0;
 
-            while(nums[i] > 0){
+            while(num > 0){
                 countdigit++;
-                nums[i] /= 10;
+                num /= 10;
             }
             if(countdigit % 2 ==0){
                 count++;
