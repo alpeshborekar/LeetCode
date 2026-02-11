@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/alpeshborekar/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/alpeshborekar/LeetCode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/alpeshborekar/LeetCode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/alpeshborekar/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/alpeshborekar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/alpeshborekar/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/alpeshborekar/LeetCode/tree/master/0228-summary-ranges) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/alpeshborekar/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/alpeshborekar/LeetCode/tree/master/0067-add-binary) |
+| [0204-count-primes](https://github.com/alpeshborekar/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/alpeshborekar/LeetCode/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/alpeshborekar/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/alpeshborekar/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -141,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alpeshborekar/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/alpeshborekar/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/alpeshborekar/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
