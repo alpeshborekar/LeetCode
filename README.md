@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/alpeshborekar/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/alpeshborekar/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/alpeshborekar/LeetCode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/alpeshborekar/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/alpeshborekar/LeetCode/tree/master/0342-power-of-four) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/alpeshborekar/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/alpeshborekar/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/alpeshborekar/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/alpeshborekar/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/alpeshborekar/LeetCode/tree/master/0342-power-of-four) |
 ## String Matching
 |  |
