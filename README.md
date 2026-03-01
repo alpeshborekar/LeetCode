@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/alpeshborekar/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/alpeshborekar/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/alpeshborekar/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/alpeshborekar/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/alpeshborekar/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alpeshborekar/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/alpeshborekar/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/alpeshborekar/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/alpeshborekar/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [3033-modify-the-matrix](https://github.com/alpeshborekar/LeetCode/tree/master/3033-modify-the-matrix) |
 ## Prefix Sum
