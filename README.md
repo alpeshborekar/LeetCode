@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/alpeshborekar/LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/alpeshborekar/LeetCode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/alpeshborekar/LeetCode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/alpeshborekar/LeetCode/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/alpeshborekar/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0896-monotonic-array](https://github.com/alpeshborekar/LeetCode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/alpeshborekar/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/alpeshborekar/LeetCode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/alpeshborekar/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
