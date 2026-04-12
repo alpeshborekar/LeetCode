@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/alpeshborekar/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/alpeshborekar/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/alpeshborekar/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/alpeshborekar/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3033-modify-the-matrix](https://github.com/alpeshborekar/LeetCode/tree/master/3033-modify-the-matrix) |
 ## Hash Table
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/alpeshborekar/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/alpeshborekar/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/alpeshborekar/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/alpeshborekar/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Simulation
 |  |
 | ------- |
