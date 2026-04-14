@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alpeshborekar/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/alpeshborekar/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/alpeshborekar/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1528-shuffle-string](https://github.com/alpeshborekar/LeetCode/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/alpeshborekar/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/alpeshborekar/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/alpeshborekar/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/alpeshborekar/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/alpeshborekar/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/alpeshborekar/LeetCode/tree/master/0709-to-lower-case) |
+| [1528-shuffle-string](https://github.com/alpeshborekar/LeetCode/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/alpeshborekar/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/alpeshborekar/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Simulation
