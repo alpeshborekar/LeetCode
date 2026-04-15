@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/alpeshborekar/LeetCode/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/alpeshborekar/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/alpeshborekar/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2129-capitalize-the-title](https://github.com/alpeshborekar/LeetCode/tree/master/2129-capitalize-the-title) |
 ## Simulation
 |  |
 | ------- |
