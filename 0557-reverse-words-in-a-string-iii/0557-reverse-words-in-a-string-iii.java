@@ -7,11 +7,11 @@ class Solution {
         for(int i = 0 ;i < arr.length ;i++){
             char[] ch = arr[i].toCharArray();
             int j = 0;
-            int n = ch.length-1;
+            int n = ch.length;
             while(j < n - j){
                 char temp = ch[j];
-                ch[j] = ch[n-j];
-                ch[n-j] = temp;
+                ch[j] = ch[n-j-1];
+                ch[n-j-1] = temp;
                 j++;
             }
             String S = new String(ch);
