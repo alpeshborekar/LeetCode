@@ -1,30 +1,28 @@
 class Solution {
     public boolean checkRecord(String s) {
 
+        int countA = 0;
+        int countL = 0;
 
-        int countA = 0 ;
-        boolean isconsecutive = false ;
+        for (int i = 0; i < s.length(); i++) {
 
+            char ch = s.charAt(i);
 
-        for(int i = 0 ; i < s.length() ; i++){
-            if(s.charAt(i) == 'A'){
+            // check A
+            if (ch == 'A') {
                 countA++;
+                if (countA >= 2) return false; 
             }
-            if(i < s.length() - 2 ){
-            if(s.charAt(i) == 'L' && s.charAt(i+1) == 'L' && s.charAt(i+2) == 'L'){
-                isconsecutive = true;
-            }
+
+            
+            if (ch == 'L') {
+                countL++;
+                if (countL >= 3) return false;
+            } else {
+                countL = 0;
             }
         }
-        if(countA < 2 && isconsecutive == false){
-            return true;
-        }
 
-        return false;
-
-
-
-
-        
+        return true;
     }
 }
