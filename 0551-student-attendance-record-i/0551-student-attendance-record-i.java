@@ -3,7 +3,6 @@ class Solution {
 
 
         int countA = 0 ;
-        int countL = 0 ;
         boolean isconsecutive = false ;
 
 
