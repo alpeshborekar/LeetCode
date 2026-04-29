@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/alpeshborekar/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/alpeshborekar/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/alpeshborekar/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/alpeshborekar/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Math
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/alpeshborekar/LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/alpeshborekar/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/alpeshborekar/LeetCode/tree/master/1678-goal-parser-interpretation) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/alpeshborekar/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/alpeshborekar/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/alpeshborekar/LeetCode/tree/master/2129-capitalize-the-title) |
 ## Simulation
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/alpeshborekar/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/alpeshborekar/LeetCode/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/alpeshborekar/LeetCode/tree/master/0912-sort-an-array) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/alpeshborekar/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Divide and Conquer
 |  |
 | ------- |
