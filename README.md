@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/alpeshborekar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/alpeshborekar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/alpeshborekar/LeetCode/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/alpeshborekar/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/alpeshborekar/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/alpeshborekar/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/alpeshborekar/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/alpeshborekar/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/alpeshborekar/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/alpeshborekar/LeetCode/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/alpeshborekar/LeetCode/tree/master/0443-string-compression) |
 | [0551-student-attendance-record-i](https://github.com/alpeshborekar/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/alpeshborekar/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/alpeshborekar/LeetCode/tree/master/0680-valid-palindrome-ii) |
