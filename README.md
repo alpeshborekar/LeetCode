@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/alpeshborekar/LeetCode/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/alpeshborekar/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/alpeshborekar/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1051-height-checker](https://github.com/alpeshborekar/LeetCode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/alpeshborekar/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/alpeshborekar/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/alpeshborekar/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/alpeshborekar/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/alpeshborekar/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/alpeshborekar/LeetCode/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/alpeshborekar/LeetCode/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alpeshborekar/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/alpeshborekar/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/alpeshborekar/LeetCode/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/alpeshborekar/LeetCode/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/alpeshborekar/LeetCode/tree/master/1051-height-checker) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/alpeshborekar/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Divide and Conquer
 |  |
