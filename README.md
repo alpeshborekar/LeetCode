@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/alpeshborekar/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/alpeshborekar/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/alpeshborekar/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/alpeshborekar/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/alpeshborekar/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/alpeshborekar/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/alpeshborekar/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/alpeshborekar/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/alpeshborekar/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/alpeshborekar/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/alpeshborekar/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/alpeshborekar/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Math
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/alpeshborekar/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/alpeshborekar/LeetCode/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/alpeshborekar/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/alpeshborekar/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/alpeshborekar/LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/alpeshborekar/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/alpeshborekar/LeetCode/tree/master/1678-goal-parser-interpretation) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/alpeshborekar/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/alpeshborekar/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/alpeshborekar/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/alpeshborekar/LeetCode/tree/master/2129-capitalize-the-title) |
@@ -234,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/alpeshborekar/LeetCode/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/alpeshborekar/LeetCode/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/alpeshborekar/LeetCode/tree/master/1051-height-checker) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/alpeshborekar/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/alpeshborekar/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Divide and Conquer
 |  |
