@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/alpeshborekar/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/alpeshborekar/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/alpeshborekar/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/alpeshborekar/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Math
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/alpeshborekar/LeetCode/tree/master/1871-jump-game-vii) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/alpeshborekar/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/alpeshborekar/LeetCode/tree/master/2129-capitalize-the-title) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/alpeshborekar/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Simulation
 |  |
 | ------- |
