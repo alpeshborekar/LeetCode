@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/alpeshborekar/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/alpeshborekar/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3033-modify-the-matrix](https://github.com/alpeshborekar/LeetCode/tree/master/3033-modify-the-matrix) |
+| [3093-longest-common-suffix-queries](https://github.com/alpeshborekar/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 ## Hash Table
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/alpeshborekar/LeetCode/tree/master/1871-jump-game-vii) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/alpeshborekar/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/alpeshborekar/LeetCode/tree/master/2129-capitalize-the-title) |
+| [3093-longest-common-suffix-queries](https://github.com/alpeshborekar/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/alpeshborekar/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Simulation
 |  |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/alpeshborekar/LeetCode/tree/master/0014-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/alpeshborekar/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 ## Stack
 |  |
 | ------- |
