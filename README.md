@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/alpeshborekar/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/alpeshborekar/LeetCode/tree/master/0917-reverse-only-letters) |
 | [1089-duplicate-zeros](https://github.com/alpeshborekar/LeetCode/tree/master/1089-duplicate-zeros) |
+| [1768-merge-strings-alternately](https://github.com/alpeshborekar/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
 |  |
 | ------- |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/alpeshborekar/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/alpeshborekar/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/alpeshborekar/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1768-merge-strings-alternately](https://github.com/alpeshborekar/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/alpeshborekar/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1871-jump-game-vii](https://github.com/alpeshborekar/LeetCode/tree/master/1871-jump-game-vii) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/alpeshborekar/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
