@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/alpeshborekar/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/alpeshborekar/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/alpeshborekar/LeetCode/tree/master/0342-power-of-four) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/alpeshborekar/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/alpeshborekar/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/alpeshborekar/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/alpeshborekar/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/alpeshborekar/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/alpeshborekar/LeetCode/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/alpeshborekar/LeetCode/tree/master/0917-reverse-only-letters) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/alpeshborekar/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/alpeshborekar/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/alpeshborekar/LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/alpeshborekar/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
