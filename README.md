@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/alpeshborekar/LeetCode/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/alpeshborekar/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/alpeshborekar/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/alpeshborekar/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/alpeshborekar/LeetCode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/alpeshborekar/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/alpeshborekar/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/alpeshborekar/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/alpeshborekar/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/alpeshborekar/LeetCode/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/alpeshborekar/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/alpeshborekar/LeetCode/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alpeshborekar/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/alpeshborekar/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/alpeshborekar/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/alpeshborekar/LeetCode/tree/master/0917-reverse-only-letters) |
+| [0977-squares-of-a-sorted-array](https://github.com/alpeshborekar/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/alpeshborekar/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/alpeshborekar/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
