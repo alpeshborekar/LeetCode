@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/alpeshborekar/LeetCode/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/alpeshborekar/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/alpeshborekar/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/alpeshborekar/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/alpeshborekar/LeetCode/tree/master/0342-power-of-four) |
@@ -401,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/alpeshborekar/LeetCode/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/alpeshborekar/LeetCode/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/alpeshborekar/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/alpeshborekar/LeetCode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
