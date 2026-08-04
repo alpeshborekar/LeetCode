@@ -22,13 +22,13 @@ class Solution {
 
             if (list1.val <= list2.val) {
 
-                tail.next = new ListNode(list1.val);
+                tail.next = list1;
 
                 list1 = list1.next;
 
             } else {
 
-                tail.next = new ListNode(list2.val);
+                tail.next = list2;
 
                 list2 = list2.next;
             }
@@ -36,22 +36,12 @@ class Solution {
             tail = tail.next;
         }
 
-        while (list1 != null) {
-
-            tail.next = new ListNode(list1.val);
-
-            tail = tail.next;
-
-            list1 = list1.next;
+        if(list1 != null){
+            tail.next = list1;
         }
 
-        while (list2 != null) {
-
-            tail.next = new ListNode(list2.val);
-
-            tail = tail.next;
-
-            list2 = list2.next;
+        if(list2 != null){
+            tail.next = list2;
         }
 
         return dummy.next;
