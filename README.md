@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/alpeshborekar/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/alpeshborekar/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/alpeshborekar/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/alpeshborekar/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/alpeshborekar/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/alpeshborekar/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/alpeshborekar/LeetCode/tree/master/0075-sort-colors) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/alpeshborekar/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/alpeshborekar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/alpeshborekar/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/alpeshborekar/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/alpeshborekar/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/alpeshborekar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/alpeshborekar/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/alpeshborekar/LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/alpeshborekar/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/alpeshborekar/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/alpeshborekar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/alpeshborekar/LeetCode/tree/master/0169-majority-element) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/alpeshborekar/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/alpeshborekar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/alpeshborekar/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/alpeshborekar/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/alpeshborekar/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/alpeshborekar/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/alpeshborekar/LeetCode/tree/master/0125-valid-palindrome) |
