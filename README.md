@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/alpeshborekar/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3033-modify-the-matrix](https://github.com/alpeshborekar/LeetCode/tree/master/3033-modify-the-matrix) |
 | [3093-longest-common-suffix-queries](https://github.com/alpeshborekar/LeetCode/tree/master/3093-longest-common-suffix-queries) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/alpeshborekar/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/alpeshborekar/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/alpeshborekar/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/alpeshborekar/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/alpeshborekar/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |
