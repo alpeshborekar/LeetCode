@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alpeshborekar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/alpeshborekar/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/alpeshborekar/LeetCode/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/alpeshborekar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/alpeshborekar/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/alpeshborekar/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/alpeshborekar/LeetCode/tree/master/0169-majority-element) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/alpeshborekar/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/alpeshborekar/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/alpeshborekar/LeetCode/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/alpeshborekar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/alpeshborekar/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/alpeshborekar/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/alpeshborekar/LeetCode/tree/master/0231-power-of-two) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/alpeshborekar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/alpeshborekar/LeetCode/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/alpeshborekar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/alpeshborekar/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Database
 |  |
