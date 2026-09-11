@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/alpeshborekar/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/alpeshborekar/LeetCode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/alpeshborekar/LeetCode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/alpeshborekar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/alpeshborekar/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/alpeshborekar/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/alpeshborekar/LeetCode/tree/master/0053-maximum-subarray) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/alpeshborekar/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/alpeshborekar/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/alpeshborekar/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/alpeshborekar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/alpeshborekar/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/alpeshborekar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/alpeshborekar/LeetCode/tree/master/0125-valid-palindrome) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/alpeshborekar/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/alpeshborekar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/alpeshborekar/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alpeshborekar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/alpeshborekar/LeetCode/tree/master/0392-is-subsequence) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/alpeshborekar/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/alpeshborekar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/alpeshborekar/LeetCode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/alpeshborekar/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/alpeshborekar/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -493,5 +497,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/alpeshborekar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/alpeshborekar/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
